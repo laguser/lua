@@ -1,5 +1,5 @@
  {
    "Call id": "https://raw.githubusercontent.com/laguser/lua/main/callid.lua",
    "PlayTime Tracker": "https://raw.githubusercontent.com/laguser/lua/main/timecount.lua",
-   "Auto-reconnect": "https://raw.githubusercontent.com/laguser/lua/refs/heads/main/autorec.lua",
+   "Auto-reconnect": "https://raw.githubusercontent.com/laguser/lua/refs/heads/main/autorec.lua"
   }
