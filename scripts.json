@@ -22,5 +22,13 @@
     "file": "autorec.lua",
     "image": "https://i.pinimg.com/736x/8a/d5/bd/8ad5bd9c9874dc1220e872eeb35727ae.jpg",
     "repo": "laguser/lua"
+  },
+  {
+    "name": "Monny count",
+    "author": "hz",
+    "description": "123",
+    "file": "MoneySeparator_v4.lua",
+    "image": "https://i.pinimg.com/1200x/ed/2d/3f/ed2d3fff68fc941c7120d10c05a024e8.jpg",
+    "repo": "laguser/lua"
   }
 ]
