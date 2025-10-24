@@ -22,13 +22,5 @@
     "file": "autorec.lua",
     "image": "https://i.pinimg.com/736x/8a/d5/bd/8ad5bd9c9874dc1220e872eeb35727ae.jpg",
     "repo": "laguser/lua"
-  },
-  {
-    "name": "Money Separator",
-    "author": "Royan_Millans and YarikVL",
-    "description": "\u0417\u0430\u043f\u044f\u0442\u044b\u0435 \u043c\u0435\u0436\u0434\u0443 \u0434\u0435\u043d\u044c\u0433\u0430\u043c\u0438",
-    "image": "https://i.pinimg.com/736x/6a/de/62/6ade62ca9334efa96579270d6aa48af2.jpg",
-    "file": "MoneySeparator_v4.lua",
-    "repo": "laguser/lua"
   }
 ]
