@@ -1,5 +1,4 @@
-{
-"scripts": [
+[
 {
 "name": "Call ID",
 "file": "callid.lua",
@@ -25,4 +24,3 @@
 "author": "Laguser"
 }
 ]
-}
