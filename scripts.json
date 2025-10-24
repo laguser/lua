@@ -1,23 +1,26 @@
 [
   {
     "name": "Call ID",
-    "file": "callid.lua",
-    "repo": "laguser/lua",
+    "author": "Laguser",
     "description": "Показывает ID игрока, который вызывает вас в игре. Удобно для RP и админ-панелей.",
-    "image": "https://i.pinimg.com/736x/87/9e/ff/879effb1ea54a6f698d19cf3308bc324.jpg"
+    "file": "callid.lua",
+    "image": "https://i.pinimg.com/736x/22/91/d1/2291d1dabf948e69fec1840837657277.jpg",
+    "repo": "laguser/lua"
   },
   {
     "name": "PlayTime Tracker",
-    "file": "timecount.lua",
-    "repo": "laguser/lua",
+    "author": "Nicolas",
     "description": "Следит за вашим временем в игре, отображая общее количество сыгранных часов. Автоматически сохраняет статистику.",
-    "image": "https://i.pinimg.com/736x/87/9e/ff/879effb1ea54a6f698d19cf3308bc324.jpg"
+    "file": "timecount.lua",
+    "image": "https://i.pinimg.com/736x/f4/4b/5d/f44b5d315fb6f01f075effeeda085709.jpg",
+    "repo": "laguser/lua"
   },
   {
     "name": "Auto-Reconnect",
-    "file": "autorec.lua",
-    "repo": "laguser/lua",
+    "author": "Laguser",
     "description": "Автоматически переподключает вас при вылете с сервера или потере соединения. Поддерживает Arizona RP и другие проекты.",
-    "image": "https://i.pinimg.com/736x/87/9e/ff/879effb1ea54a6f698d19cf3308bc324.jpg"
+    "file": "autorec.lua",
+    "image": "https://i.pinimg.com/736x/8a/d5/bd/8ad5bd9c9874dc1220e872eeb35727ae.jpg",
+    "repo": "laguser/lua"
   }
 ]
