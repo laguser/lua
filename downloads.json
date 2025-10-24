@@ -1,6 +1,6 @@
 {
-  "callid.lua": 2,
+  "callid.lua": 6,
   "timecount.lua": 1,
-  "autorec.lua": 0,
+  "autorec.lua": 1,
   "Money Separator": 0
 }
