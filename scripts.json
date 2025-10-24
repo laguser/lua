@@ -22,5 +22,13 @@
     "file": "autorec.lua",
     "image": "https://i.pinimg.com/736x/8a/d5/bd/8ad5bd9c9874dc1220e872eeb35727ae.jpg",
     "repo": "laguser/lua"
+  },
+  {
+    "name": "penis",
+    "author": "me",
+    "description": "123",
+    "image": "https://i.pinimg.com/736x/cf/af/06/cfaf067576d1df63e20e72c7e619d465.jpg",
+    "file": "MoneySeparator_v4.lua",
+    "repo": "laguser/lua"
   }
 ]
