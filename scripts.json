@@ -44,13 +44,5 @@
     "image": "https://www.blast.hk/proxy.php?image=https%3A%2F%2Fi.imgur.com%2FYCF8SXR.png&hash=e55ec760fef55b06ec6fe069e4a16cdd",
     "file": "carbCrosshair.lua",
     "repo": "laguser/lua"
-  },
-  {
-    "name": "mtg",
-    "author": "mtg",
-    "description": "123",
-    "image": "",
-    "file": "SMI Helper.lua",
-    "repo": "laguser/lua"
   }
 ]
