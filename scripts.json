@@ -38,7 +38,7 @@
     "version": "1.5.0",
     "description": "Заменяет уёбищный дефолтный прицел на что-то более красивое. С настройками прямо как в CS2. Имеет функцию импорта прицела из CS и обратно, а так-же настройку самого прицела через удобный GUI, или через команды в консоли SampFuncs.",
     "file": "carbCrosshair.lua",
-    "image": "https://www.blast.hk/attachments/61704/",
+    "image": "https://www.blast.hk/proxy.php?image=https%3A%2F%2Fi.imgur.com%2FYCF8SXR.png&hash=e55ec760fef55b06ec6fe069e4a16cdd",
     "repo": "laguser/lua",
     "downloads": 0,
     "prov": 0
